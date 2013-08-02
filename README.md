@@ -1,4 +1,6 @@
 POC-DjangoHaystack
 ==================
 
-Django &amp; HayStack Testing
+Django &amp; HayStack -POT
+
+1. Tested with Woosh
